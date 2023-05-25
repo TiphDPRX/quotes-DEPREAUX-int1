@@ -3,10 +3,11 @@
 A python program that generates programming quotes and jokes.
 
 ## Contributors
+Group INT1 :
 - `initiator`: DEPREAUX Tiphanie
 - `contributor-1`: SIMON Eliot
 - `contributor-2`: PREVOTAT Robin
-- `contributor-3`: TOTO Titi Group B 
+- `contributor-3`: DEPREAUX Tiphanie
 
 ## Fork urls
 - `contributor-1`: [https://github.com/Eliot999/quotes-SIMON-int1](url-1)
